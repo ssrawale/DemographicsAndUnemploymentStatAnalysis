@@ -5,4 +5,4 @@ Statistical analysis of the relationship between racial demographics and employm
 2. Correlation
 3. Regression
 
-Navigate to report docx to learn more about the analysis and methods used.
+Navigate to report docx to learn more about the analysis and methods used. Created for GEOG 4103 SP25.
